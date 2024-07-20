@@ -35,6 +35,4 @@
 ### Популярные языки
 ![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=PanOlifer&layout=compact&theme=radical)
 
----
 
-Спасибо за визит! Хорошего дня! 🚀✨💻
