@@ -4,7 +4,7 @@
 
 ### Обо мне
 - 🛠️ **Грейд**: Middle Go-Developer
-- 😄 Telegram: [@panolifer](https://t.me/panolifer)
+- Telegram: [@panolifer](https://t.me/panolifer)
 
 ## Мой стек технологий
 ![Go](https://img.shields.io/badge/Go-1.16-blue)
