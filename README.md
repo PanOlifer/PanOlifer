@@ -12,13 +12,19 @@
 - **[GitSeeker](https://github.com/PanOlifer/GitSeeker)**: Инструмент для поиска репозиториев на GitHub, написанный на Python.
 - **[LogStore](https://github.com/PanOlifer/LogStore)**: Проект на Go для хранения логов.
 
-### Мой стек технологий
-- **Языки программирования**: Go, Python, C++, JavaScript, C#
-- **Фреймворки и библиотеки**: React, Node.js, Django, Spring, Angular
-- **Инструменты и системы**: Git, Docker, Kubernetes, Jenkins, Grafana, Prometheus
-- **Базы данных**: PostgreSQL, MongoDB, Redis, Oracle DB, Clickhouse
-- **Коммуникация**: gRPC, RabbitMQ, HTTP
-- **Разработка и оркестрация**: VCS, CI, Docker-compose, Ansible
+## Мой стек технологий
+![Go](https://img.shields.io/badge/Go-1.16-blue)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![C++](https://img.shields.io/badge/C++-17-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.21-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green)
+![Redis](https://img.shields.io/badge/Redis-6.2-red)
+![Git](https://img.shields.io/badge/Git-2.31-red)
+![Grafana](https://img.shields.io/badge/Grafana-7.5-orange)
+![Prometheus](https://img.shields.io/badge/Prometheus-2.26-orange)
 
 ### LeetCode
 Активный участник LeetCode, где решаю задачи по алгоритмам и структурам данных. Мой профиль: [LeetCode - Artem Olifirenko](https://leetcode.com/u/Artem-Olifirenko/)
