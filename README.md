@@ -6,12 +6,6 @@
 - 🛠️ **Грейд**: Middle Go-Developer
 - 😄 Telegram: [@panolifer](https://t.me/panolifer)
 
-### Мои проекты
-Здесь представлены некоторые из моих заметных проектов:
-- **[BiometricAntiSpoofing](https://github.com/PanOlifer/BiometricAntiSpoofing)**: Проект по защите биометрических данных от подделки на Python.
-- **[GitSeeker](https://github.com/PanOlifer/GitSeeker)**: Инструмент для поиска репозиториев на GitHub, написанный на Python.
-- **[LogStore](https://github.com/PanOlifer/LogStore)**: Проект на Go для хранения логов.
-
 ## Мой стек технологий
 ![Go](https://img.shields.io/badge/Go-1.16-blue)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
