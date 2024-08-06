@@ -6,7 +6,7 @@
 - 🛠️ **Грейд**: Middle Go-Developer
 
 ## Мой стек технологий
-![Go](https://img.shields.io/badge/Go-1.16-blue)
+![Go](https://img.shields.io/badge/Go-1.22-blue)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![C++](https://img.shields.io/badge/C++-17-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
